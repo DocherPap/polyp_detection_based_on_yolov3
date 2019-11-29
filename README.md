@@ -8,3 +8,4 @@ We retrained the network for 1000 epoch with batch size of 16, 80% of data for t
 
 The result is as shown, and the highest one reached the 96.9% of mAP.
 
+The weight is on https://drive.google.com/file/d/1R1rT2CjVm6U1NijyHUgef7aUpLbgI86l/view?usp=sharing, use detect.py to detect new images.
